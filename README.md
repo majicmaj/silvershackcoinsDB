@@ -1,2 +1,0 @@
-# silvershackcoinsDB
-Created with CodeSandbox
